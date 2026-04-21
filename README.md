@@ -31,7 +31,7 @@ PIL (Python Imaging Library)
 How to Run
 
 You can run this notebook directly on Google Colab:
-Or clone the repository: git clone https://github.com/shauryamaathur/Neural-Style-Transfer-Project.git
+Or clone the repository: git clone https://colab.research.google.com/drive/1AboRVA34J42bQNekgZPncrY83xNcQvNY?usp=sharing
 
 
 Install the dependencies with: 
